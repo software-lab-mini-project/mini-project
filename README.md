@@ -1,2 +1,2 @@
-Simple Calculatro
+## Simple Calculator 
 
